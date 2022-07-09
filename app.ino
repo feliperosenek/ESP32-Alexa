@@ -15,12 +15,12 @@
 #include "SinricPro.h"
 #include "SinricProSwitch.h"
 
-#define WIFI_SSID         "K"
-#define WIFI_PASS         "baianaelatifa"
-#define APP_KEY           "0a95c7b9-021f-4fa3-b502-c6a2100da412"
-#define APP_SECRET        "b9188afe-14fc-4806-ba59-607bcc7856f2-1059b3c0-c67a-4da6-a7ab-175b8b43fc63"
+#define WIFI_SSID         "*********
+#define WIFI_PASS         "*********"
+#define APP_KEY           "*******"
+#define APP_SECRET        "******"
 
-#define SWITCH_ID_1       "627d9550a6872f363926a32b"
+#define SWITCH_ID_1       "***********"
 #define RELAYPIN_1        23
 #define RELAYPIN_2        22
 #define RELAYPIN_3        21
